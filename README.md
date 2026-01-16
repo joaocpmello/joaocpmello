@@ -1,7 +1,6 @@
 # Welcome!
 
-Atualmente estou cursando o **4º período em Análise e Desenvolvimento de Sistemas**
-na **Universidade Positivo**.
+Graduado em Análise e Desenvolvimento de Sistemas | Desenvolvedor Júnior
 
 ---
 
