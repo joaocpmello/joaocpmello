@@ -1,6 +1,6 @@
 # Welcome!
 
-Graduado em Análise e Desenvolvimento de Sistemas | Desenvolvedor Júnior
+Graduado em TI na Universidade Positivo | Desenvolvedor Júnior
 
 ---
 
