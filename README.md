@@ -2,6 +2,8 @@
 
 Graduado em TI na Universidade Positivo | Desenvolvedor Júnior
 
+Perdi meu antigo github: oldjoaocpmello
+
 ---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true)](https://github.com/joaocpmello)
