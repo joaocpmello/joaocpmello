@@ -6,8 +6,8 @@ Perdi meu antigo github: oldjoaocpmello
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true)](https://github.com/joaocpmello)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true)](https://github.com/joaocpmello)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocpmello&show_icons=true&theme=dark&hide_border=true)](https://github.com/joaocpmello)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocpmello&layout=compact&theme=dark&hide_border=true)](https://github.com/joaocpmello)
 
 ---
 
